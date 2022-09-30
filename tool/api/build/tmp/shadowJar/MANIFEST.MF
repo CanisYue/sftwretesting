@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: sketchy.driver.Driver
+Implementation-Version: 0.78
+
